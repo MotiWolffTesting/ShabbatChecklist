@@ -1,4 +1,4 @@
-from task import Task
+from Tasks.task import Task
 
 class TaskManager:
     """Manage all tasks"""
