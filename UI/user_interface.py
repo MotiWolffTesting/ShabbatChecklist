@@ -1,4 +1,4 @@
-from ..Tasks.task_manager import TaskManager
+from Tasks.task_manager import TaskManager
 
 class UserInterface:
     """Handles all user interactions and display"""

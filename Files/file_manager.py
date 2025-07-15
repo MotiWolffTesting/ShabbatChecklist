@@ -1,5 +1,5 @@
-from ..Tasks.task import Task
-from ..Tasks.task_manager import TaskManager
+from Tasks.task import Task
+from Tasks.task_manager import TaskManager
 import json
 import os
 
